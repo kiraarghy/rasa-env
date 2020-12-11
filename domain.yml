@@ -15,6 +15,7 @@ responses:
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
+  - text: hello there
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
